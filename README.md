@@ -32,8 +32,9 @@
 		<div class="heading">
 			<h1>Travel With Us</h1>
 			<br>
-			<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. </p>
+			<p>Established in 2015, The Go Global is a full-service travel agency website that specializes in international travel.We offer a wide range of services, from booking flights and hotels to organizing car rentals.Our goal in the travel industry is to make international travel easy and accessible for everyone.
+[index.txt](https://github.com/Pavan1205/Template-for-Travel-agency-website/files/10037111/index.txt)
+ </p>
 			<br>
 			<br>
 			<a href="#">Learn More</a>
